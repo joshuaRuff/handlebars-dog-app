@@ -15,8 +15,10 @@
   z-index: 1;
   position: relative;
   background: #fff;
+  background-size: 100% 100%;
   border-radius: 2px;
   box-sizing: border-box;
+  min-width: 28%;
   width: 320px;
   height: 320px;
   margin-bottom: 35px;
