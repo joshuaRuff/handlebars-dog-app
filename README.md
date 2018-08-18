@@ -1,1 +1,1 @@
-#handlebars-dog-app
+#Great App for learning Handlebars
